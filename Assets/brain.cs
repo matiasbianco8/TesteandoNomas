@@ -5,6 +5,9 @@ using UnityEngine;
 public class brain : MonoBehaviour
 {
     // Start is called before the first frame update
+
+    public string nombre;
+
     void Start()
     {
         // Hola. Como estas?
