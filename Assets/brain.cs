@@ -7,12 +7,12 @@ public class brain : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Solo estoy probando esto
+        // Hola
     }
 
     // Update is called once per frame
     void Update()
     {
-        //prueba2
+        
     }
 }
