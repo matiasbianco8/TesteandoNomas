@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class brain : MonoBehaviour
 {
+    public int ejemploo;
+
     // Start is called before the first frame update
     void Start()
     {
